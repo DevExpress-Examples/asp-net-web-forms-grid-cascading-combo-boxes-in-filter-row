@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - How to implement cascading combo boxes in the filter row
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128531147/)**
-<!-- run online end -->
 This example demonstrates how to implement cascading combo boxes in the Grid View control's filter row.
 
 ![Cascading Combo Boxes in the Filter Row](result.png)

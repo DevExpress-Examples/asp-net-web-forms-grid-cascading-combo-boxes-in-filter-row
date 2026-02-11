@@ -25,7 +25,7 @@ In the example, the filter row displays cascading combo boxes in **Country** and
 
 - [Cascading Combo Boxes](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-cascaded-combo-box-columns)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-cascading-combo-boxes-in-filter-row&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-cascading-combo-boxes-in-filter-row&~~~was_helpful=no)
 
